@@ -4,7 +4,8 @@ As part of the project, I successfully established a connection to the database 
 The company is the owner of a large subscription-based book reading service.
 ### Objective: 
 To analyze the database in order to formulate a value proposition for a new product.
-
+### Skills and tools:
+Python, Pandas, SQL
 ### Results of Data Analysis:
 As a result of the database analysis, several key aspects have been identified that can be utilized to formulate a value proposition for a new subscription-based book reading service product:
 * Diversity of Contemporary Book Collection: The database contains information on one thousand books from 636 authors. This allows offering users a considerable selection of literature that matches their interests and preferences.
